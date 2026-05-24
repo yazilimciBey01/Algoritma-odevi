@@ -1,2 +1,2 @@
-# Algoritma-odevi
-50+15 adet algoritma sorusu / c kaynak kodları / akış diyagramları.
+# 2540791044----Algoritma-ödevi
+50 adet algoritma C kaynak kodları ve akış diyagramı
